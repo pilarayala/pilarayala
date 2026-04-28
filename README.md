@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Mi nombre es Pilar Ayala, tengo 14 años. Curso 4to año de avionica en la secundaria IMPA.
+# Mis hobbies
+Juego al hockey en el club Quilmes en 6ta division, me gusta la musica y el arte, salir con mis amigos e ir a ver jugar al rugby a mi hermano.
+![imagen](https://images.cosmopolitan.de/adele,id=c4247e2a,b=cosmopolitan,w=1280,rm=sk.webp)
+
